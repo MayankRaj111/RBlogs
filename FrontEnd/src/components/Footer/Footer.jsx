@@ -39,7 +39,7 @@ function Footer(theme="light") {
                                 <Logo width="100px" />
                                 <h1 className={`font-bold ${textColor} mx-20`}>RBLOGS</h1>
                                 <p className="text-sm text-gray-600">
-                                    &copy; Copyright 2024. All Rights Reserved by Mayank.
+                                    &copy; Copyright 2024. All Rights Reserved by Mayank Raj.
                                 </p>
                             </div>
                         
